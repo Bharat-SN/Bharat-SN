@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharat-SN
 - 👀 I’m interested in learning programming for development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native, ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
